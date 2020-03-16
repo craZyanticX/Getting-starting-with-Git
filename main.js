@@ -1,0 +1,1 @@
+console.log('hello world, using maya to have a job');// this function outputs whatever is passed to the console
